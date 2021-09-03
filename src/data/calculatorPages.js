@@ -324,4 +324,101 @@ export default {
     "main-5": {
         
     },
+    "prototype-33-0": {
+        header: "33",
+        buttons: [
+            {
+                text: "Yes",
+                href: CALC_PREFIX + "/prototype-34-0"
+            },
+            {
+                text: "No",
+                href: CALC_PREFIX + "/prototype-34-1"
+            }
+        ]
+    },
+    "prototype-34-0": {
+        header: "34",
+        buttons: [
+            {
+                text: "Yes",
+                href: CALC_PREFIX + "/prototype-35-0"
+            },
+            {
+                text: "No",
+                href: CALC_PREFIX + "/prototype-35-0"
+            }
+        ]
+    },
+    "prototype-34-1": {
+        header: "34",
+        buttons: [
+            {
+                text: "Yes",
+                href: CALC_PREFIX + "/prototype-35-0"
+            },
+            {
+                text: "No",
+                href: CALC_PREFIX + "/prototype-35-1"
+            }
+        ]
+    },
+    "prototype-35-0": {
+        header: "35",
+        buttons: [
+            {
+                text: "Yes",
+                href: CALC_PREFIX + "/prototype-36-0"
+            },
+            {
+                text: "No",
+                href: CALC_PREFIX + "/prototype-36-0"
+            }
+        ]
+    },
+    "prototype-35-1": {
+        header: "35",
+        buttons: [
+            {
+                text: "Yes",
+                href: CALC_PREFIX + "/prototype-36-0"
+            },
+            {
+                text: "No",
+                href: CALC_PREFIX + "/prototype-36-1"
+            }
+        ]
+    },
+    "prototype-36-0": {
+        header: "36",
+        buttons: [
+            {
+                text: "Yes",
+                href: CALC_PREFIX + "/prototype-not-eligible-0"
+            },
+            {
+                text: "No",
+                href: CALC_PREFIX + "/prototype-not-eligible-0"
+            }
+        ]
+    },
+    "prototype-36-1": {
+        header: "36",
+        buttons: [
+            {
+                text: "Yes",
+                href: CALC_PREFIX + "/prototype-not-eligible-0"
+            },
+            {
+                text: "No",
+                href: CALC_PREFIX + "/prototype-s39"
+            }
+        ]
+    },
+    "prototype-not-eligible-0": {
+        header: "Not Eligible"
+    },
+    "prototype-s39": {
+        header: "S39"
+    }
 }
